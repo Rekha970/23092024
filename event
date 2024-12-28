@@ -1,0 +1,10 @@
+<html>
+<head>
+<tittle>
+EVENT REGISTRATION</tittle>
+<label>first name:</label>
+<input type="text" name="firstname" size=15><br>
+<label>last  name:</label>
+<input type="text" name="last name" size=15><br>
+</head>
+</html>
